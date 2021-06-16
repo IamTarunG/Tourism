@@ -190,6 +190,7 @@ footer a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    background-attachment: local;
   }
   .img2 {
     width: 100%;
@@ -197,6 +198,7 @@ footer a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    background-attachment: local;
   }
   .img3 {
     width: 100%;
@@ -204,6 +206,7 @@ footer a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    background-attachment: local;
   }
   .img4 {
     width: 100%;
@@ -211,5 +214,6 @@ footer a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    background-attachment: local;
   }
 }
