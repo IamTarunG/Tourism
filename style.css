@@ -185,6 +185,7 @@ footer a {
     border-radius: 5px;
   }
   .img1 {
+    background-image: url("london.jpg");
     width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
@@ -193,6 +194,7 @@ footer a {
     background-attachment: local;
   }
   .img2 {
+    background-image: url("paris.jpg");
     width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
@@ -201,6 +203,7 @@ footer a {
     background-attachment: local;
   }
   .img3 {
+    background-image: url("tokyo.jpg");
     width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
@@ -209,6 +212,7 @@ footer a {
     background-attachment: local;
   }
   .img4 {
+    background-image: url("newyork.jpg");
     width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
