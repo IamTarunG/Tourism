@@ -11,7 +11,7 @@ body {
   width: 100%;
   height: 100vh;
 
-  background-image: url("../images/london.jpg");
+  background-image: url("london.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 
@@ -45,7 +45,7 @@ body {
 }
 
 .img2 {
-  background-image: url("../images/paris.jpg");
+  background-image: url("paris.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -78,7 +78,7 @@ body {
   padding: 10px 0px;
 }
 .img3 {
-  background-image: url("../images/tokyo.jpg");
+  background-image: url("tokyo.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -109,7 +109,7 @@ body {
   animation: enlarge 3s cubic-bezier(0, 1.17, 0.93, 0.38);
 }
 .img4 {
-  background-image: url("../images/newyork.jpg");
+  background-image: url("newyork.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -185,7 +185,7 @@ footer a {
     border-radius: 5px;
   }
   .img1 {
-    background-image: url("../images/london.jpg");
+    background-image: url("london.jpg");
     width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
@@ -194,7 +194,7 @@ footer a {
     background-attachment: fixed;
   }
   .img2 {
-    background-image: url("../images/paris.jpg");
+    background-image: url("paris.jpg");
     width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
@@ -203,7 +203,7 @@ footer a {
     background-attachment: fixed;
   }
   .img3 {
-    background-image: url("../images/tokyo.jpg");
+    background-image: url("tokyo.jpg");
     width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
@@ -212,7 +212,7 @@ footer a {
     background-attachment: fixed;
   }
   .img4 {
-    background-image: url("../images/newyork.jpg");
+    background-image: url("newyork.jpg");
     width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
