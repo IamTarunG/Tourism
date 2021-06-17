@@ -195,7 +195,7 @@ footer a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-attachment: fixed;
+    
   }
   .img2 {
     background-image: url("paris.jpg");
@@ -204,7 +204,7 @@ footer a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-attachment: fixed;
+    
   }
   .img3 {
     background-image: url("tokyo.jpg");
@@ -213,7 +213,7 @@ footer a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-attachment: fixed;
+    
   }
   .img4 {
     background-image: url("newyork.jpg");
@@ -222,6 +222,6 @@ footer a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-attachment: fixed;
+    
   }
 }
