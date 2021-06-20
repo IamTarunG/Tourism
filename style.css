@@ -169,9 +169,6 @@ footer a {
 }
 
 @media only screen and (max-width: 800px) {
-  html {
-  scroll-behavior: smooth;
-}
   .content1 {
     font-size: 30px;
     border-radius: 5px;
@@ -196,7 +193,6 @@ footer a {
     background-position: center;
     background-size: cover;
     background-attachment: local;
-    
   }
   .img2 {
     background-image: url("paris.jpg");
@@ -206,7 +202,6 @@ footer a {
     background-position: center;
     background-size: cover;
     background-attachment: local;
-    
   }
   .img3 {
     background-image: url("tokyo.jpg");
@@ -216,7 +211,6 @@ footer a {
     background-position: center;
     background-size: cover;
     background-attachment: local;
-    
   }
   .img4 {
     background-image: url("newyork.jpg");
@@ -226,6 +220,5 @@ footer a {
     background-position: center;
     background-size: cover;
     background-attachment: local;
-    
   }
 }
